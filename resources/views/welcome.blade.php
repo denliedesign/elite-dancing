@@ -132,7 +132,7 @@
 
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container mb-5">
-            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                 <div class="col-sm text-center mt-5">
 {{--                    <img class="review-img shadow mb-4" src="/images-lava/review.png" alt="">--}}
                     <div class="fw-bold" style="font-size: 1.25em;">Anne Eadie</div>

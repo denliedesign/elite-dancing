@@ -600,7 +600,7 @@
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
+                            <a href="/schedule"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
@@ -642,7 +642,7 @@
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
+                            <a href="/schedule"
                                class="">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>

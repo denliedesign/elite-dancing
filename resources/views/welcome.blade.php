@@ -607,13 +607,13 @@
                         </div>
                     </div>
                     <div class="col-sm">
-                                                <div class="next-step mx-1 shadow py-5">
-                                                    <p class="txt-blue">Want To Give It A Try?</p>
-                                                    <a href="" target="_blank"
-                                                       class="">
-                                                        <div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule a Trial!</div>
-                                                    </a>
-                                                </div>
+{{--                                                <div class="next-step mx-1 shadow py-5">--}}
+{{--                                                    <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                                                    <a href="" target="_blank"--}}
+{{--                                                       class="">--}}
+{{--                                                        <div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule a Trial!</div>--}}
+{{--                                                    </a>--}}
+{{--                                                </div>--}}
                     </div>
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
@@ -648,15 +648,15 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-sm my-3">
-                                                <div class="next-step mx-1 shadow py-5">
-                                                    <p class="txt-blue">Want To Give It A Try?</p>
-                                                    <a href="" target="_blank"
-                                                       class="">
-                                                        <div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule a Trial!</div>
-                                                    </a>
-                                                </div>
-                    </div>
+{{--                    <div class="col-sm my-3">--}}
+{{--                                                <div class="next-step mx-1 shadow py-5">--}}
+{{--                                                    <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                                                    <a href="" target="_blank"--}}
+{{--                                                       class="">--}}
+{{--                                                        <div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule a Trial!</div>--}}
+{{--                                                    </a>--}}
+{{--                                                </div>--}}
+{{--                    </div>--}}
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-pink">Still Have Questions?</p>

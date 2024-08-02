@@ -514,7 +514,7 @@
                             Find joy in moving
                             </span>
                         </div>
-                                                <div class="txt-crimson mt-3" style="font-size: 1.5em;"><a href="" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Dance with us today!</div></a></div>
+                                                <div class="txt-crimson mt-3" style="font-size: 1.5em;"><a href="/schedule" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Dance with us today!</div></a></div>
 {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try our <a href="/promotions"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Mini-Sessions</div></a></div>--}}
 {{--                        <div class="mt-2"><small>dance lessons Onalaska &middot; dance lessons La Crosse &middot; dance lessons Holmen</small></div>--}}
                     </div>

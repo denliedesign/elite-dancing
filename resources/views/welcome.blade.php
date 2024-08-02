@@ -59,11 +59,12 @@
         <div class="container">
             <h3 class="font-staat text-white" style="font-size: 100px; line-height: 0.9em;">Taking Talent To The Next Level!</h3>
             <p class="text-white font-syne" style="font-size: 22px;">
-                In 2003, Elite Dance Academy was founded in League City, Texas offering a full schedule of dance classes for ages three to adult, from beginner to advanced levels. Under the direction of Lanette Cook, we are dedicated to providing quality instruction for all skill levels while maintaining a positive experience. Our highly qualified staff has pursued a higher education in dance, as well as successful professional performing careers. We strive to find a class for everyone interested in learning and offer classes from Ballet, Pointe, Tap and Jazz, to Contemporary and Hip-Hop.
-                <br><br>
-                In addition to our studio program, we also house a competitive dance company. These dancers commit to training extensively for 12-15 hours per week and participate in various competitive venues. Our dancers also participate in various workshops, master classes and private training and have gone on to win national titles, scholarships, as well as hired for local shows. Educating young minds in dance is a top priority at Elite Dance Academy and we find it important to take talent to the next level.
-                <br><br>
-                Stop by the studio, meet our staff, and find out what Elite Dance Academy has to offer! If you can't make it by the studio, please give us a call at 281.554.5200 or send an email to infoelitedancing@gmail.com
+                At Elite Dance Academy, we are dedicated to providing quality instruction for all skill levels while maintaining a positive environment for your dancer. Throughout your time at Elite, we can assure not only growth in dance but in confidence, discipline and resilience.
+                {{--                In 2003, Elite Dance Academy was founded in League City, Texas offering a full schedule of dance classes for ages three to adult, from beginner to advanced levels. Under the direction of Lanette Cook, we are dedicated to providing quality instruction for all skill levels while maintaining a positive experience. Our highly qualified staff has pursued a higher education in dance, as well as successful professional performing careers. We strive to find a class for everyone interested in learning and offer classes from Ballet, Pointe, Tap and Jazz, to Contemporary and Hip-Hop.--}}
+{{--                <br><br>--}}
+{{--                In addition to our studio program, we also house a competitive dance company. These dancers commit to training extensively for 12-15 hours per week and participate in various competitive venues. Our dancers also participate in various workshops, master classes and private training and have gone on to win national titles, scholarships, as well as hired for local shows. Educating young minds in dance is a top priority at Elite Dance Academy and we find it important to take talent to the next level.--}}
+{{--                <br><br>--}}
+{{--                Stop by the studio, meet our staff, and find out what Elite Dance Academy has to offer! If you can't make it by the studio, please give us a call at 281.554.5200 or send an email to infoelitedancing@gmail.com--}}
             </p>
         </div>
         <div style="height: 118px;"></div>
@@ -136,30 +137,39 @@
 {{--                    <img class="review-img shadow mb-4" src="/images-lava/review.png" alt="">--}}
                     <div class="fw-bold" style="font-size: 1.25em;">Anne Eadie</div>
                     <div class="txt-crimson" style="font-size: 1.125em;">
-                        My girls entered Elite Dance Academy at 4 years old, incredibly shy, and very little confidence in themselves. That studio has become their 2nd home- they are now out-going, full of confidence, and have made friendships that are going to last their whole lives. Their dance teachers push them to learn new skills in a way that motivates my girls without making them feel discouraged. They are beautiful dancers who are learning the technique that supports their dancing and becoming amazing dancers. I’m so grateful for everything Elite has done to improve their dancing and self-esteem.
+                        My girls entered Elite Dance Academy at 4 years old, incredibly shy, and very little confidence in themselves. That studio has become their 2nd home- they are now out-going, full of confidence, and have made friendships that are going to last their whole lives…I’m so grateful for everything Elite has done to improve their dancing and self-esteem.
                     </div>
                 </div>
                 <div class="col-sm text-center mt-5">
 {{--                    <img class="review-img shadow mb-4" src="/images-lava/review.png" alt="">--}}
                     <div class="fw-bold" style="font-size: 1.25em;">Allison Keller</div>
                     <div class="txt-crimson" style="font-size: 1.125em;">
-                        Our daughter has been dancing at Elite for 3 years and on the competitive team for 1 year. In that time, she has grown as a dancer and become more confident in everyday life. Our shy little girl shines when she goes out on stage! We are very happy with the teachers, classes, and dance family that we have joined at Elite!                    </div>
+                        Our daughter has been dancing at Elite for 3 years and on the competitive team for 1 ‘year. In that time, she has grown as a dancer and become more confident in everyday life. Our shy little girl shines when she goes out on stage! We are very happy with the teachers, classes, and dance family that we have joined at Elite!
+                    </div>
                 </div>
                 <div class="col-sm text-center mt-5">
                     <div class="fw-bold" style="font-size: 1.25em;">Angela Tanous</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">We have been with Elite since 2018 and currently have our three daughters enrolled at the studio, two of whom are on the competitive team. The studio feels like a second home at this point. Not only have our girls grown as dancers, they're also learning valuable lessons about responsibility, teaming and self-discipline. The teachers have been a constant source of encouragement and motivation and the girls are surrounded with amazingly supportive teammates. We love Elite and can't wait to see the growth that our daughters achieve over the next few years!</div>
+                    <div class="txt-crimson" style="font-size: 1.125em;">
+                        We have been with Elite since 2018 and currently have our three daughters enrolled at the studio, two of whom are on the competitive team. The studio feels like a second home at this point. Not only have our girls grown as dancers, they're also learning valuable lessons about responsibility, teaming and self-discipline. The teachers have been a constant source of encouragement and motivation and the girls are surrounded with amazingly supportive teammates.
+                    </div>
                 </div>
                 <div class="col-sm text-center mt-5">
                     <div class="fw-bold" style="font-size: 1.25em;">Marita Corkill</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">My girls and I LOVED our first year competing at Elite Dance Academy! I saw my girls grow in their abilities as dancers and as a team of girls and beautiful friendships. Thank you for all the extra special moments created by the studio for team building and really feeling like a family. We are excited for a new year and season!</div>
+                    <div class="txt-crimson" style="font-size: 1.125em;">
+                        My girls and I LOVED our first year competing at Elite Dance Academy! I saw my girls grow in their abilities as dancers and as a team of girls and beautiful friendships. Thank you for all the extra special moments created by the studio for team building and really feeling like a family. We are excited for a new year and season!
+                    </div>
                 </div>
                 <div class="col-sm text-center mt-5">
                     <div class="fw-bold" style="font-size: 1.25em;">Krysten Arriaga</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">Elite Dance Academy is a small, local gem right in the heart of East League City. The instructors are passionate and wonderful with children of all ages. We especially love the carefree, fun approach in the early combo classes to really instill a love of dance in the littles. Then, as they get older Elite offers a variety of classes for varying skill sets and interests. The studio’s intimate atmosphere fosters personalized learning and a welcoming community vibe. Elite is a perfect studio for anyone looking to learn or refine their dance skills in a fun, friendly environment. Highly recommend!</div>
+                    <div class="txt-crimson" style="font-size: 1.125em;">
+                        Elite Dance Academy is a small, local gem right in the heart of East League City. The instructors are passionate and wonderful with children of all ages. We especially love the carefree, fun approach in the early combo classes to really instill a love of dance in the littles…Elite is a perfect studio for anyone looking to learn or refine their dance skills in a fun, friendly environment. Highly recommend!
+                    </div>
                 </div>
                 <div class="col-sm text-center mt-5">
                     <div class="fw-bold" style="font-size: 1.25em;">Joni Nava</div>
-                    <div class="txt-crimson" style="font-size: 1.125em;">My girls have been blessed to call Elite their second home for seven years.  Between myself and both my girls, we have an accumulation of forty years in dance.  I can whole heartedly say Elite, by far, is amazing!  The education, love and mentorship the staff provides is exceptional.  I have not found a better environment for my children to grow up in and express their love of dance.  Don’t walk…RUN to Elite Dance Academy!!</div>
+                    <div class="txt-crimson" style="font-size: 1.125em;">
+                        My girls have been blessed to call Elite their second home for seven years. Between myself and both my girls, we have an accumulation of forty years in dance. I can wholeheartedly say Elite, by far, is amazing! The education, love and mentorship the staff provides is exceptional. I have not found a better environment for my children to grow up in and express their love of dance. Don’t walk…RUN to Elite Dance Academy!!
+                    </div>
                 </div>
 {{--                <div class="col-sm text-center mt-5">--}}
 {{--                    <div class="fw-bold" style="font-size: 1.25em;"></div>--}}
@@ -259,7 +269,7 @@
 
     <div class="py-5">
         <div class="container">
-            <h2 class="fw-bold text-center" style="font-size: 2.75em;">If you let me dance...</h2>
+            <h2 class="fw-bold text-center" style="font-size: 2.75em;">Dance with us!</h2>
             <div class="d-flex justify-content-center">
                 <video poster="/images/elite-poster.png" src="/images/elite-video.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
@@ -504,23 +514,23 @@
                             Find joy in moving
                             </span>
                         </div>
-                                                <div class="txt-crimson" style="font-size: 1.5em;">Try your <a href="" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white"><u>FREE</u> trial class</div></a> today.</div>
+                                                <div class="txt-crimson mt-3" style="font-size: 1.5em;"><a href="" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Dance with us today!</div></a></div>
 {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try our <a href="/promotions"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Mini-Sessions</div></a></div>--}}
 {{--                        <div class="mt-2"><small>dance lessons Onalaska &middot; dance lessons La Crosse &middot; dance lessons Holmen</small></div>--}}
                     </div>
                 </div>
-                <div class="col-sm d-flex justify-content-center align-items-center">
-                                        <form action="">
-                                            <div class="row g-0 align-items-center">
-                                                <div class="col-auto mx-0">
-                                                    <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">
-                                                </div>
-                                                <div class="col-auto mx-0">
-                                                    <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>
-                                                </div>
-                                            </div>
-                                        </form>
-                </div>
+{{--                <div class="col-sm d-flex justify-content-center align-items-center">--}}
+{{--                                        <form action="">--}}
+{{--                                            <div class="row g-0 align-items-center">--}}
+{{--                                                <div class="col-auto mx-0">--}}
+{{--                                                    <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">--}}
+{{--                                                </div>--}}
+{{--                                                <div class="col-auto mx-0">--}}
+{{--                                                    <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </form>--}}
+{{--                </div>--}}
             </div>
         </div>
         <div>

@@ -12,7 +12,9 @@
 
     <div class="container py-4">
         <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Fall 2024-2025 Schedule</h3>
-
+        <div>
+            <iframe src="https://dancestudio-pro.com/apps/api_classes.php?id=zaqlxajd29jd2629676a5d1ce309jasdklj21dx629676a5d1d23" width="100%" height="2800px" style="border:none;"></iframe>
+        </div>
     </div>
 
 

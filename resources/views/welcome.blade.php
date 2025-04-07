@@ -12,7 +12,7 @@
                 <a href="/schedule"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
-        <img src="/images-lava/welcome.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
+        <img src="/images/25-apprentice-1-crop.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
     </div>
 
     <div class="d-block d-lg-none">
@@ -26,7 +26,7 @@
                 <a href="/schedule" class="text-white text-decoration-none"><div class="shadow btn btn-danger">Find Your Class</div></a>
             </div>
         </div>
-        <img src="/images-lava/welcome.jpg" alt="" class="img-fluid" style="z-index: 0;">
+        <img src="/images/25-apprentice-1-crop.jpg" alt="" class="img-fluid" style="z-index: 0;">
     </div>
 
     {{--<div class="bg-red py-5">--}}
@@ -600,8 +600,8 @@
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
                             <p class="txt-green">Ready To Leap In?</p>
-                            <a href="/schedule"
-                               class="">
+                            <a href="https://dancestudio-pro.com/online/elitedanceacademy"
+                               class="" target="_blank">
                                 <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
                             </a>
                         </div>

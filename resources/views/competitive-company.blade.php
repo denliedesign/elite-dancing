@@ -2,7 +2,7 @@
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner-company"></div>
+        <div class="banner-apprentice-2"></div>
         <div class="custom-shape-divider-bottom-1663856745">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
                 <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
@@ -46,7 +46,8 @@
 {{--            <strong>Training Program</strong>--}}
 {{--            <br>Our training only program allows dancers who are unable to fully commit to the performance side of our company the opportunity to train with our competitive dancers. Dancers interested must attend our company audition to be placed in the appropriate level. Please understand that a dancer can be moved up or down a level throughout the entire season.--}}
 {{--        </p>--}}
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 my-5">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-4 row-cols-lg-4 my-5">
+            <img src="/images/25-company-auditions.png" alt="competitive company auditions announce" class="img-fluid">
             <img src="/images/company-1.jpg" alt="competitive company dancer" class="img-fluid">
             <img src="/images/company-2.jpg" alt="competitive company dancer" class="img-fluid">
             <img src="/images/company-3.jpg" alt="competitive company dancer" class="img-fluid">

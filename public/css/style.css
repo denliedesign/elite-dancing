@@ -627,6 +627,15 @@ body {
     background-size: cover;
 }
 
+.banner-apprentice-2 {
+    height: calc(100% - 1px);
+    background-image: url(/images/25-apprentice-2.jpg);
+    background-attachment: fixed;
+    background-position: 50% 43%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banner-schedule {
     height: calc(100% - 1px);
     background-image: url(/images/banner-schedule.jpg);

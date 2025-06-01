@@ -46,8 +46,8 @@
 {{--            <strong>Training Program</strong>--}}
 {{--            <br>Our training only program allows dancers who are unable to fully commit to the performance side of our company the opportunity to train with our competitive dancers. Dancers interested must attend our company audition to be placed in the appropriate level. Please understand that a dancer can be moved up or down a level throughout the entire season.--}}
 {{--        </p>--}}
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-4 row-cols-lg-4 my-5">
-            <img src="/images/25-company-auditions.png" alt="competitive company auditions announce" class="img-fluid">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 my-5">
+{{--            <img src="/images/25-company-auditions.png" alt="competitive company auditions announce" class="img-fluid">--}}
             <img src="/images/company-1.jpg" alt="competitive company dancer" class="img-fluid">
             <img src="/images/company-2.jpg" alt="competitive company dancer" class="img-fluid">
             <img src="/images/company-3.jpg" alt="competitive company dancer" class="img-fluid">

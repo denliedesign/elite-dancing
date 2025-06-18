@@ -14,6 +14,8 @@
         <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Contact</h3>
         <form action="{{ route('contact.store') }}" method="POST">
             <div class="form-group">
+                <input type="hidden" name="my_name" id="my_name" value="">
+                <input type="checkbox" name="contact_me_by_fax_only" id="contact_me_by_fax_only" value="1" tabindex="-1" autocomplete="off" class="d-none">
                 <label for="name">Name</label>
                 <input id="name" type="text" class="form-control" name="name" value="{{ old('name') }}">
                 <div>{{ $errors->first('name') }}</div>

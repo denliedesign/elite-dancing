@@ -25,7 +25,7 @@ class ContactUsController extends Controller
             'message' => 'required',
         ]);
 
-        Mail::to('customdenlie@gmail.com')->send(new ContactUsMail($letter));
+        Mail::to('infoelitedancing@gmail.com')->send(new ContactUsMail($letter));
 
         return redirect('contact')->with('message', 'Thanks for your message. We\'ll be in touch.');
 
